@@ -72,5 +72,6 @@ Neste relatório, realizamos uma análise detalhada dos dados de preços de comb
 
 - jaymerson.ferreira.s@gmail.com
 - pammilacarvalho@gmail.com
+- alexdeividy@hotmail.com
 
 
