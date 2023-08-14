@@ -64,7 +64,7 @@ Neste relatório, realizamos uma análise detalhada dos dados de preços de comb
 ## PESSOAS ENVOLVIDAS NO PROJETO
 
 - Gestor de Conhecimento - Jaymerson
-- Co-Facilitador - Co-Facilitador - Jefferson
+- Co-Facilitador - Jefferson
 - Gestor de Gente e Engajamento - Pamela
 - Colaborador 1 - Alex
 
