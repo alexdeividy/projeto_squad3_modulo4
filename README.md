@@ -59,3 +59,18 @@ Realizamos diversas análises exploratórias para responder a várias perguntas,
 **Conclusão**
 
 Neste relatório, realizamos uma análise detalhada dos dados de preços de combustíveis dos meses de Junho e Julho de 2023. Foram apresentados insights sobre variações de preços, médias por estado, municípios com menores e maiores preços, além de outras análises exploratórias. Também investigamos possíveis correlações entre preços e região/bandeira de venda. Esse trabalho proporciona uma compreensão mais profunda das tendências do mercado de combustíveis nesse período.
+
+
+## PESSOAS ENVOLVIDAS NO PROJETO
+
+- Gestor de Conhecimento - Jaymerson
+- Co-Facilitador - Co-Facilitador - Jefferson
+- Gestor de Gente e Engajamento - Pamela
+- Colaborador 1 - Alex
+
+## MAIL PARA CONTATO
+
+- jaymerson.ferreira.s@gmail.com
+- pammilacarvalho@gmail.com
+
+
