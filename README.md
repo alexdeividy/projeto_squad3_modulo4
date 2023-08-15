@@ -2,11 +2,66 @@
 
 
 
-# **Análise dos dados de combustíveis de Junho a Julho de 2023 (ANP) - Relatório Redmi**
-
 **Descrição do Projeto**
 
 Neste trabalho, realizamos uma análise dos dados de preços de combustíveis referentes aos meses de Junho e Julho de 2023, fornecidos pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP). Nosso objetivo foi compreender as variações nos preços da gasolina, gasolina aditivada e etanol durante esse período, investigando tendências, padrões e relações em diferentes aspectos.
+
+
+# Dicionário de Variável
+
+
+dados_julho: DataFrame contendo os dados do mês de Julho.
+
+dados_junho: DataFrame contendo os dados do mês de Junho.
+
+dados: DataFrame resultante da concatenação dos dados de Junho e Julho.
+
+dados_gasolina: DataFrame contendo os dados apenas da Gasolina.
+
+dados_gasolina_aditivada: DataFrame contendo os dados apenas da Gasolina Aditivada.
+
+dados_etanol: DataFrame contendo os dados apenas do Etanol.
+
+mgas_c: Preço médio do Etanol.
+
+media_de_combustiveis: Série contendo a média de preço dos combustíveis por tipo.
+
+df_precos_medios: DataFrame contendo os preços médios da Gasolina Aditivada por estado.
+
+df_precos_medios2: DataFrame contendo os preços médios da Gasolina por estado.
+
+df_precos_medios3: DataFrame contendo os preços médios do Etanol por estado.
+
+aditivada_estados: Top 5 estados com maior preço médio de Gasolina Aditivada.
+
+gasolina_estados: Top 5 estados com maior preço médio de Gasolina.
+
+etanol_estados: Top 5 estados com maior preço médio de Etanol.
+
+preco_etanol_medio: Preço médio do Etanol por estado.
+
+preco_gasolina_medio: Preço médio da Gasolina por estado.
+
+preco_gasolina_aditivada_medio: Preço médio da Gasolina Aditivada por estado.
+
+preco_etanol_medio: Preço médio do Etanol por estado.
+
+correlacao_junho: Correlação entre preço da Gasolina e Etanol para Junho.
+
+dados_combinados: DataFrame contendo os dados de Junho e Julho combinados.
+
+correlacao_bandeira_gasolina: Correlação entre preço da Gasolina e a Bandeira.
+
+correlacao_bandeira_etanol: Correlação entre preço do Etanol e a Bandeira.
+
+dados_pernambuco: Dados apenas do estado de Pernambuco.
+
+dados_saopaulo: Dados apenas do estado de São Paulo.
+
+dados_acre: Dados apenas do estado do Acre.
+
+concatenated_df: DataFrame contendo os dados de Gasolina de Pernambuco. São Paulo e Acre.
+
 
 **Bibliotecas Utilizadas**
 
