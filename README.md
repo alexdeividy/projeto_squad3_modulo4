@@ -1,66 +1,14 @@
-# projeto_squad3_modulo4
+![imagem](https://static.wixstatic.com/media/a27d24_570b62cdcf67427ebbc0bbb779d60236~mv2.jpg/v1/fill/w_640,h_348,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/a27d24_570b62cdcf67427ebbc0bbb779d60236~mv2.jpg)
+
+
+# Análise dos combustíveis
 
 
 
 **Descrição do Projeto**
 
-Neste trabalho, realizamos uma análise dos dados de preços de combustíveis referentes aos meses de Junho e Julho de 2023, fornecidos pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP). Nosso objetivo foi compreender as variações nos preços da gasolina, gasolina aditivada e etanol durante esse período, investigando tendências, padrões e relações em diferentes aspectos.
+Neste projeto, realizamos uma análise dos dados de preços de combustíveis referentes aos meses de Junho e Julho de 2023, fornecidos pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP). Nosso objetivo foi compreender as variações nos preços da gasolina, gasolina aditivada e etanol durante esse período, investigando tendências, padrões e relações em diferentes aspectos.
 
-
-# Dicionário de Variável
-
-
-dados_julho:   DataFrame contendo os dados do mês de Julho.
-
-dados_junho:   DataFrame contendo os dados do mês de Junho.
-
-dados:   DataFrame resultante da concatenação dos dados de Junho e Julho.
-
-dados_gasolina:   DataFrame contendo os dados apenas da Gasolina.
-
-dados_gasolina_aditivada:   DataFrame contendo os dados apenas da Gasolina Aditivada.
-
-dados_etanol:   DataFrame contendo os dados apenas do Etanol.
-
-mgas_c:   Preço médio do Etanol.
-
-media_de_combustiveis:   Série contendo a média de preço dos combustíveis por tipo.
-
-df_precos_medios:   DataFrame contendo os preços médios da Gasolina Aditivada por estado.
-
-df_precos_medios2:   DataFrame contendo os preços médios da Gasolina por estado.
-
-df_precos_medios3:   DataFrame contendo os preços médios do Etanol por estado.
-
-aditivada_estados:   Top 5 estados com maior preço médio de Gasolina Aditivada.
-
-gasolina_estados:   Top 5 estados com maior preço médio de Gasolina.
-
-etanol_estados:   Top 5 estados com maior preço médio de Etanol.
-
-preco_etanol_medio:   Preço médio do Etanol por estado.
-
-preco_gasolina_medio:   Preço médio da Gasolina por estado.
-
-preco_gasolina_aditivada_medio:   Preço médio da Gasolina Aditivada por estado.
-
-preco_etanol_medio:   Preço médio do Etanol por estado.
-
-correlacao_junho:   Correlação entre preço da Gasolina e Etanol para Junho.
-
-dados_combinados:   DataFrame contendo os dados de Junho e Julho combinados.
-
-correlacao_bandeira_gasolina:   Correlação entre preço da Gasolina e a Bandeira.
-
-correlacao_bandeira_etanol:   Correlação entre preço do Etanol e a Bandeira.
-
-dados_pernambuco:   Dados apenas do estado de Pernambuco.
-
-dados_saopaulo:   Dados apenas do estado de São Paulo.
-
-dados_acre:   Dados apenas do estado do Acre.
-
-concatenated_df:   DataFrame contendo os dados de Gasolina de Pernambuco. São Paulo e Acre.
 
 
 **Bibliotecas Utilizadas**
@@ -75,7 +23,7 @@ Para a análise, utilizamos as seguintes bibliotecas:
 
 **Importação de Dados**
 
-Carregamos os dados de preços de combustíveis para os meses de Junho e Julho de 2023 da ANP através de links CSV. Em seguida, concatenamos os dados em um único DataFrame.
+Carregamos os dados dos combustíveis para os meses de Junho e Julho de 2023 do site da ANP através dos links do CSV. Em seguida, concatenamos os dados em um único DataFrame.
 
 **Pré-Processamento dos Dados**
 
@@ -123,12 +71,12 @@ Neste relatório, realizamos uma análise detalhada dos dados de preços de comb
 - Gestor de Gente e Engajamento - Pamela
 - Colaborador 1 - Alex
 
-## MAIL PARA CONTATO
+## CONTATOS
 
-- jaymerson.ferreira.s@gmail.com
-- pammilacarvalho@gmail.com
-- alexdeividy@hotmail.com
-- jeffrazec97@gmail.com
+Jaymerson: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaymerson-ferreira/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jaymerson.ferreira.s@gmail.com)
 
+Jefferson: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersoncezarsilva/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jeffrazec97@gmail.com)
 
+Pâmela: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamela-carvalho-tech-analista-dados-jr/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pammilacarvalho@gmail.com)
 
+Alex: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexdeividy/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexdeividy@hotmail.com)
